@@ -1,4 +1,4 @@
-# afenso-core
+# afenso
 
 > A high-performance core repository dedicated to Layer-3 environments, appchains prototyping, and gas-efficient liquidity routing tools.
 
